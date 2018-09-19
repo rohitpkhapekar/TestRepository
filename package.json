@@ -1,0 +1,22 @@
+{
+  "name": "testrepository",
+  "version": "1.0.0",
+  "description": "React Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitpkhapekar/TestRepository.git"
+  },
+  "keywords": [
+    "reactJS"
+  ],
+  "author": "Rohit Khapekar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohitpkhapekar/TestRepository/issues"
+  },
+  "homepage": "https://github.com/rohitpkhapekar/TestRepository#readme"
+}
